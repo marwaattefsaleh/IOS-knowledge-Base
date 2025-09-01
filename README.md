@@ -7,7 +7,7 @@ A collection of notes, explanations, and examples about Swift and iOS developmen
 
 ## 📖 Featured Articles  
 
-* [Value Types in Swift (Structs, Classes, and Enums)](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Value-Types-in-Swift)  
+* [Value Types in Swift (Structs and Enums)](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Value-Types-in-Swift)  
 
 ---
 
