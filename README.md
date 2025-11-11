@@ -13,6 +13,7 @@ A collection of notes, explanations, and examples about Swift and iOS developmen
 * [Generics in Swift](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Generics-in-Swift)
 * [Swift Variables](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Swift-Variables)
 * [Solid principles](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Solid-principles)
+* [Dependency Injection](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Dependency-Injection)
 ---
 
 ✨ More topics will be added soon to help developers understand Swift deeply and prepare for interviews.  
