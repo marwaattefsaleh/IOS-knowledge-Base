@@ -14,7 +14,7 @@ A collection of notes, explanations, and examples about Swift and iOS developmen
 * [Swift Variables](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Swift-Variables)
 * [Solid principles](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Solid-principles)
 * [Dependency Injection](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Dependency-Injection)
-* [🧩 Dependency Injection (DI) — The Concept](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Object‐Oriented-Programming-(OOP)
+* [Dependency Injection (DI) — The Concept](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Object‐Oriented-Programming-(OOP)
 )
 
 ---
