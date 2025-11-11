@@ -12,7 +12,7 @@ A collection of notes, explanations, and examples about Swift and iOS developmen
 * [Swift VS Objective-c](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Swift-vs-Objective‐C)  
 * [Generics in Swift](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Generics-in-Swift)
 * [Swift Variables](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Swift-Variables)
-
+* [Solid principles](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Solid-principles)
 ---
 
 ✨ More topics will be added soon to help developers understand Swift deeply and prepare for interviews.  
