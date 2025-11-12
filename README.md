@@ -22,8 +22,10 @@ A collection of notes, explanations, and examples about Swift and iOS developmen
 * [Thread-Safe Access & Mutation of Singleton Properties in Swift](https://github.com/marwaattefsaleh/Thread‐Safe-Access-&-Mutation-of-Singleton-Properties-in-Swift)
 * [Declarative vs Imperative Programming in Swift](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Declarative-vs-Imperative-Programming-in-Swift)
 * [Aggregation vs Composition (and Interface Segregation)](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Aggregation-vs-Composition-(and-Interface-Segregation))
+* [Immutable vs Mutable in Swift](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Immutable-vs-Mutable-in-Swift)
 
 ---
+
 
 
 
