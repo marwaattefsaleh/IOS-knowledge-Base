@@ -17,6 +17,8 @@ A collection of notes, explanations, and examples about Swift and iOS developmen
 * [Object‐Oriented Programming (OOP)](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Object‐Oriented-Programming-(OOP))
 * [Protocol‐Oriented Programming (POP)](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Protocol‐Oriented-Programming-(POP))
 * [Swift vs Objective‐C: POP vs OOP](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Swift-vs-Objective‐C:-POP-vs-OOP)
-
+* [Memory Management in Swift — weak, strong, and unowned](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Memory-Management-in-Swift-—-weak,-strong,-and-unowned)
 ---
+
+
 ✨ More topics will be added soon to help developers understand Swift deeply and prepare for interviews.  
