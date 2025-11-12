@@ -24,6 +24,7 @@ A collection of notes, explanations, and examples about Swift and iOS developmen
 * [Aggregation vs Composition (and Interface Segregation)](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Aggregation-vs-Composition-(and-Interface-Segregation))
 * [Immutable vs Mutable in Swift](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Immutable-vs-Mutable-in-Swift)
 * [Copy‐on‐Write (COW) in Swift](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Copy‐on‐Write-(COW)-in-Swift)
+* [Cookies, Sessions, and API Authentication in iOS](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Cookies,-Sessions,-and-API-Authentication-in-iOS)
 
 ---
 
