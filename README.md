@@ -26,6 +26,8 @@ A collection of notes, explanations, and examples about Swift and iOS developmen
 * [Copy‐on‐Write (COW) in Swift](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Copy‐on‐Write-(COW)-in-Swift)
 * [Cookies, Sessions, and API Authentication in iOS](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Cookies,-Sessions,-and-API-Authentication-in-iOS)
 * [Concurrency in iOS](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Concurrency-in-iOS)
+* [Uploading Multiple Images in Parallel](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Uploading-Multiple-Images-in-Parallel)
+
 
 
 ---
