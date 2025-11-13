@@ -19,7 +19,7 @@ A collection of notes, explanations, and examples about Swift and iOS developmen
 * [Swift vs Objective‐C: POP vs OOP](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Swift-vs-Objective‐C:-POP-vs-OOP)
 * [Memory Management in Swift — weak, strong, and unowned](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Memory-Management-in-Swift-—-weak,-strong,-and-unowned)
 * [Singleton Pattern in Swift — Class vs Struct](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Singleton-Pattern-in-Swift-—-Class-vs-Struct)
-* [Thread-Safe Access & Mutation of Singleton Properties in Swift](https://github.com/marwaattefsaleh/wiki/Thread‐Safe-Access-&-Mutation-of-Singleton-Properties-in-Swift)
+* [Thread-Safe Access & Mutation of Singleton Properties in Swift](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Thread‐Safe-Access-&-Mutation-of-Singleton-Properties-in-Swift)
 * [Declarative vs Imperative Programming in Swift](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Declarative-vs-Imperative-Programming-in-Swift)
 * [Aggregation vs Composition (and Interface Segregation)](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Aggregation-vs-Composition-(and-Interface-Segregation))
 * [Immutable vs Mutable in Swift](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Immutable-vs-Mutable-in-Swift)
