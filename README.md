@@ -26,8 +26,19 @@ A collection of notes, explanations, and examples about Swift and iOS developmen
 * [Copy‐on‐Write (COW) in Swift](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Copy‐on‐Write-(COW)-in-Swift)
 * [Cookies, Sessions, and API Authentication in iOS](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Cookies,-Sessions,-and-API-Authentication-in-iOS)
 * [Concurrency in iOS](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Concurrency-in-iOS)
+* [Grand Central Dispatch (GCD)](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Grand-Central-Dispatch-(GCD))
+* [SwiftUI](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/SwiftUI)
+* [Combine](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Combine)
 * [Uploading Multiple Images in Parallel](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Uploading-Multiple-Images-in-Parallel)
 * [Closures](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Closures)
+* [Swift Persistence Technologies: Realm vs Core Data vs SwiftData](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Swift-Persistence-Technologies:-Realm-vs-Core-Data-vs-SwiftData)
+* [iOS App Security](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/iOS-App-Security)
+* [Common iOS App Crash Types & What Usually Causes Them](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Common-iOS-App-Crash-Types-&-What-Usually-Causes-Them)
+* [iOS Design Patterns](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/iOS-Design-Patterns)
+* [Git](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Git)
+
+
+
 
 
 
