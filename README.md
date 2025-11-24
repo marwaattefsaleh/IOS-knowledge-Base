@@ -41,6 +41,7 @@ A collection of notes, explanations, and examples about Swift and iOS developmen
 * [Common iOS App Crash Types & What Usually Causes Them](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Common-iOS-App-Crash-Types-&-What-Usually-Causes-Them)
 * [iOS Design Patterns](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/iOS-Design-Patterns)
 * [Git](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Git)
+* [Comparison between UIKit and SwiftUI lifecycles](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Comparison-between-UIKit-and-SwiftUI-lifecycles)
 
 
 
