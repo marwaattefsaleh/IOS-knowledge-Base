@@ -35,6 +35,7 @@ A collection of notes, explanations, and examples about Swift and iOS developmen
 * [Uploading Multiple Images in Parallel](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Uploading-Multiple-Images-in-Parallel)
 * [Closures](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Closures)
 * [Swift Persistence Technologies: Realm vs Core Data vs SwiftData](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Swift-Persistence-Technologies:-Realm-vs-Core-Data-vs-SwiftData)
+* [SwiftData](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/SwiftData)
 * [iOS App Security](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/iOS-App-Security)
 * [Common iOS App Crash Types & What Usually Causes Them](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Common-iOS-App-Crash-Types-&-What-Usually-Causes-Them)
 * [iOS Design Patterns](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/iOS-Design-Patterns)
