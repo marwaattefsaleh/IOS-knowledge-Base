@@ -13,7 +13,7 @@ A collection of notes, explanations, and examples about Swift and iOS developmen
 4. [Generics in Swift](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Generics-in-Swift)
 5. [Swift Variables](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Swift-Variables)
 6. [Solid principles](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Solid-principles)
-7.[Dependency Injection](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Dependency-Injection)
+7. [Dependency Injection](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Dependency-Injection)
 8. [Object‐Oriented Programming (OOP)](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Object‐Oriented-Programming-(OOP))
 9. [Protocol‐Oriented Programming (POP)](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Protocol‐Oriented-Programming-(POP))
 10. [Swift vs Objective‐C: POP vs OOP](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Swift-vs-Objective‐C:-POP-vs-OOP)
