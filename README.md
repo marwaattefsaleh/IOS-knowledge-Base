@@ -46,6 +46,7 @@ A collection of notes, explanations, and examples about Swift and iOS developmen
 37. [Memory Allocation in Swift: Value vs Reference Semantics and Escape Analysis](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Memory-Allocation-in-Swift:-Value-vs-Reference-Semantics-and-Escape-Analysis)
 38. [Codable, Encodable, and Decodable in Swift](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Codable,-Encodable,-and-Decodable-in-Swift)
 39. [Struct init vs Class init vs convenience init](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Struct-init-vs-Class-init-vs-convenience-init)
+40. [Why Clean Architecture?](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Why-Clean-Architecture%3F)
 
 
 
