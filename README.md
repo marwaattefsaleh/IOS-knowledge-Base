@@ -48,8 +48,11 @@ A collection of notes, explanations, and examples about Swift and iOS developmen
 39. [Struct init vs Class init vs convenience init](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Struct-init-vs-Class-init-vs-convenience-init)
 40. [Why Clean Architecture?](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Why-Clean-Architecture%3F)
 41. [MVVM-vs-VIPER](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/MVVM-vs-VIPER)
-41. [Manual Reference Counting (MRC) vs Automatic Reference Counting (ARC)
+42. [Manual Reference Counting (MRC) vs Automatic Reference Counting (ARC)
 ](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Manual-Reference-Counting-(MRC)-vs-Automatic-Reference-Counting-(ARC))
+43. [Why do we define atomic and nonatomic properties in Objective‐C?
+](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Why-do-we-define-atomic-and-nonatomic-properties-in-Objective‐C%3F)
+
 
 
 
