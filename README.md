@@ -52,6 +52,7 @@ A collection of notes, explanations, and examples about Swift and iOS developmen
 ](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Manual-Reference-Counting-(MRC)-vs-Automatic-Reference-Counting-(ARC))
 43. [Why do we define atomic and nonatomic properties in Objective‐C?
 ](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Why-do-we-define-atomic-and-nonatomic-properties-in-Objective‐C%3F)
+44. [What is a Category in Objective‐C?](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/What-is-a-Category-in-Objective‐C%3F)
 
 
 
