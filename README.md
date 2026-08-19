@@ -57,6 +57,8 @@ A collection of notes, explanations, and examples about Swift and iOS developmen
 46. [CI CD for iOS](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/CI-CD-for-iOS)
 47. [Auto Layout](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Auto-Layout)
 48. [Managing Existing Technical Debt](https://github.com/marwaattefsaleh/Managing-Existing-Technical-Debt)
+48. [Code Signing in iOS](https://github.com/marwaattefsaleh/Code-Signing-in-iOS)
+
 
 
 
