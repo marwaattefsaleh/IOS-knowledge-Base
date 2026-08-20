@@ -59,8 +59,7 @@ A collection of notes, explanations, and examples about Swift and iOS developmen
 48. [Managing Existing Technical Debt](https://github.com/marwaattefsaleh/Managing-Existing-Technical-Debt)
 49. [Code Signing in iOS](https://github.com/marwaattefsaleh/Code-Signing-in-iOS)
 50. [Provisioning Profile in iOS](https://github.com/marwaattefsaleh/Provisioning-Profile-in-iOS)
-
-
+51. [How Would You Integrate an AI API into an iOS Application?](https://github.com/How-Would-You-Integrate-an-AI-API-into-an-iOS-Application%3F)
 
 
 
