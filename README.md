@@ -56,13 +56,13 @@ A collection of notes, explanations, and examples about Swift and iOS developmen
 45. [CocoaPods vs Swift Package Manager (SPM)](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/CocoaPods-vs-Swift-Package-Manager-(SPM))
 46. [CI CD for iOS](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/CI-CD-for-iOS)
 47. [Auto Layout](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Auto-Layout)
-48. [Managing Existing Technical Debt](https://github.com/marwaattefsaleh/Managing-Existing-Technical-Debt)
-49. [Code Signing in iOS](https://github.com/marwaattefsaleh/Code-Signing-in-iOS)
-50. [Provisioning Profile in iOS](https://github.com/marwaattefsaleh/Provisioning-Profile-in-iOS)
-51. [How Would You Integrate an AI API into an iOS Application?](https://github.com/How-Would-You-Integrate-an-AI-API-into-an-iOS-Application%3F)
-52. [How would you stream an LLM response to the UI?](https://github.com/How-would-you-stream-an-LLM-response-to-the-UI%3F)
-53. [Production‐Ready AI Integration in iOS](https://github.com/Production‐Ready-AI-Integration-in-iOS)
-54. [iOS Networking & API Reliability](iOS-Networking-&-API-Reliability)
+48. [Managing Existing Technical Debt](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Managing-Existing-Technical-Debt)
+49. [Code Signing in iOS](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Code-Signing-in-iOS)
+50. [Provisioning Profile in iOS](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Provisioning-Profile-in-iOS)
+51. [How Would You Integrate an AI API into an iOS Application?](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/How-Would-You-Integrate-an-AI-API-into-an-iOS-Application%3F)
+52. [How would you stream an LLM response to the UI?](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/How-would-you-stream-an-LLM-response-to-the-UI%3F)
+53. [Production‐Ready AI Integration in iOS](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/Production‐Ready-AI-Integration-in-iOS)
+54. [iOS Networking & API Reliability](https://github.com/marwaattefsaleh/IOS-knowledge-Base/wiki/iOS-Networking-&-API-Reliability)
 
 
 
